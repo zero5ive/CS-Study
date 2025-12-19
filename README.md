@@ -27,3 +27,41 @@
 * CS 핵심 개념을 체계적으로 정리
 * 면접 대비를 위한 **설명할 수 있는 수준의 이해** 달성
 * 서로 질문하며 부족한 부분 보완
+
+## 🏃 스터디원
+<table align="center"> 
+  <tr>
+    <td align="center" width="150"> 
+      <img src="https://github.com/yejeeni.png" width="100" style="border-radius: 50%;"/><br/> 
+      <b>김예진</b><br/> 
+     <br/> <!-- 담당 파트 추가 -->
+      <a href="https://github.com/yejeeni">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
+      </a> 
+    </td> 
+        <td align="center" width="150"> 
+      <img src="https://github.com/Shypanda0119.png" width="100" style="border-radius: 50%;"/><br/> 
+      <b>김지민</b><br/> 
+     <br/> <!-- 담당 파트 추가 -->
+      <a href="https://github.com/Shypanda0119">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
+      </a> 
+    </td>
+        <td align="center" width="150"> 
+      <img src="https://github.com/dev-Kiwi7.png" width="100" style="border-radius: 50%;"/><br/> 
+      <b>서예닮</b><br/> 
+    <br/> <!-- 담당 파트 추가 -->
+      <a href="https://github.com/dev-Kiwi7">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
+      </a> 
+    </td>
+        <td align="center" width="150"> 
+      <img src="https://github.com/yudinee.png" width="100" style="border-radius: 50%;"/><br/> 
+      <b>성유진</b><br/> 
+          <br/>
+      <a href="https://github.com/yudinee">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
+      </a> 
+          </td>
+  </tr>
+</table>
