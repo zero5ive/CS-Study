@@ -18,6 +18,8 @@ ex) 프로토콜, 메서드, 데이터타입 등이 정의된 중계계층
 
 
 - API 한줄 설명 : API는 프로그램 간 기능을 주고받기 위한 인터페이스이며, 웹에서는 HTTP를 통해 메서드, URL, 데이터 형식을 규칙으로 정의한 것이 API이다.
+  
+<img width="1376" height="1002" alt="image" src="https://github.com/user-attachments/assets/156cba08-5d83-49ab-8081-957d13057a2c" />
 
 
 
@@ -60,6 +62,7 @@ Content-Type: application/json
 # API의 작동방식
 API는 다음과 같이 중계계층으로 끼어져있어서 작동을 한다.
 
+<img width="1298" height="404" alt="image" src="https://github.com/user-attachments/assets/6ee79552-d21b-4a23-a4b9-d73a73663c79" />
 
 
 
@@ -108,6 +111,8 @@ ex) yes24의 베스트 셀러, 검색페이지에서의 사용자이벤트
 
 
 - public : 모든 사람이 사용할 수 있다. 많은 트래픽을 방지하기 위해 하루 요청수의 제한, 계정 당 몇개 등으로 관리한다.
+
+<img width="1516" height="524" alt="image" src="https://github.com/user-attachments/assets/8b200a30-38a5-49c1-a95d-2e8b68aba80f" />
 
 
 
