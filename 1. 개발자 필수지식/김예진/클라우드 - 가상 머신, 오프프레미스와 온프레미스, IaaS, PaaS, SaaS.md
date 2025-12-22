@@ -11,7 +11,7 @@
 ## 가상화 기술과 하이퍼바이저
 ### 하이퍼바이저 (Hypervisor)
 
-![image](https://github.com/user-attachments/assets/9379a2a1-12b6-41ba-a698-52b74301f4a0)
+<img width="732" height="355" alt="Image" src="https://github.com/user-attachments/assets/b8ecbd81-e328-4846-b34e-a0c7b015d4fe" />
 
 가상 컴퓨터를 여러 개 구동할 수 있도록, 물리적 자원을 가상화하여 여러 VM에 할당하는 중간계층
 - Type 1 (Native): HW 위에 직접 실행. 성능이 좋고 안정적이라 엔터프라이즈 환경에서 주로 사용. (KVM, Hyper-V)
@@ -88,7 +88,7 @@ Host OS 커널을 공유하므로, 커널 레벨의 보안 취약점에 노출�
 
 ### 도커의 과정
 
-<img width="760" height="304" alt="Image" src="https://github.com/user-attachments/assets/9379a2a1-12b6-41ba-a698-52b74301f4a0" />
+<img width="1530" height="692" alt="Image" src="https://github.com/user-attachments/assets/c1feed1f-a18a-46df-860f-016bf7d17e6f" />
 
 1. 도커 파일
    - 패키지 설치, 환경 변수, 실행 명령 등을 기록한 텍스트 기반 스크립트
